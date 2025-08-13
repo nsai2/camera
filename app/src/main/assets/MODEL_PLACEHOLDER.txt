@@ -1,6 +1,0 @@
-EfficientDet Lite0 model placeholder.
-
-Download the model from TensorFlow Hub:
-https://storage.googleapis.com/tfhub-lite-models/tensorflow/lite-model/efficientdet/lite0/detection/metadata/1.tflite
-
-Place it in this folder as 'efficientdet_lite0.tflite' before building the app.
